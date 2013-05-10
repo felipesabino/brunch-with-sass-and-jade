@@ -29,6 +29,11 @@ except a few changes:
 * Sass is used in place of Stylus.
 * Jade is used in replace of Handlebars
 
+## Compatibility Issues
+* Brunch NPM packages are dependent on Node v.0.8.22 version. It might not work properly on later versions of Node.
+* This version works properly on Brunch version 1.6.2. Errors were found on v.1.6.5. Brunch server does not start on v.1.6.5
+
+
 ## Features
 * HTML5Boilerplate 4.0.0 html & css are included.
 * CoffeeScript + Sass + Jade as app languages

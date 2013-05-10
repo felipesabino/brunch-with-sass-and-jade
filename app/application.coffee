@@ -30,6 +30,7 @@ module.exports = class Application extends Chaplin.Application
     # if necessary:
     # @initRouter routes, pushState: false, root: '/subdir/'
 
+    @startRouting()
     # Freeze the application instance to prevent further changes
     Object.freeze? this
 
