@@ -7,7 +7,7 @@ based on [Chaplin](https://github.com/chaplinjs/chaplin) framework, [Sass](https
 - Requires Brunch 1.4+.
 
 ## Getting started
-* Create new project by executing `brunch new <project name> --skeleton https://github.com/bc-luke/sassy-brunch`.
+* Create new project by executing `brunch new <project name> --skeleton https://github.com/felipesabino/brunch-with-sass-and-jade`.
 * Build the project with `brunch b` or `brunch w`.
 * Open the `public/` dir to see the result.
 * Write your code.
